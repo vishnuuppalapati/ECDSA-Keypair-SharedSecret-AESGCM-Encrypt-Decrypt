@@ -1,2 +1,3 @@
 # ECDSA-Keypair-SharedSecret-AESGCM-Encrypt-Decrypt
 ECDSA Keypair Shared Secret AESGCM Encrypt Decrypt Generator Dotnet Console Application
+ECDSA sample console application for generating the key pairs for client and server. Here i have generated two shared secrets for client to server data encryption and decryption. with using the client private kay and server public key i am generating one shared secret and with server private key and client public key i am generating the second shared secret. While using the secret key1 i am Encrypting the data with AESGCM Encryption and Decrypting the data using the secret key2 with AESGCM Decryption
